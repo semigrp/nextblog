@@ -1,5 +1,5 @@
 const About = () => {
-  return <div>ブログを書いています。</div>
+  return <div>ブログを書いていきます。</div>
 }
 
 export default About
